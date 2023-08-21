@@ -33,7 +33,7 @@ const Contact = () => {
         </a>
       </div>
       <div className="contactUs-pic">
-        <img src={profilePic} alt="Profile Pic"/>
+        <img src={profilePic} alt="Profile Image"/>
       </div>
     </div>
   );
