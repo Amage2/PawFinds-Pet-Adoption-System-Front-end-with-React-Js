@@ -1,6 +1,6 @@
 # PawFinds: Pet Adoption System Front End
 
-Welcome to the PawFinds Pet Adoption System front end repository! This project is developed using React.js and aims to provide a user-friendly interface for users to discover and adopt pets.
+Welcome to the PawFinds Pet Adoption System front-end repository! This project is developed using React.js and aims to provide a user-friendly interface for users to discover and adopt pets.
 
 ![Capture](https://github.com/KaShiekzmi/PawFinds-Pet-Adoption-System-Front-end-with-React-Js/assets/114513868/a7d18bd8-db40-4729-ad56-5d4d90b7571f)
 
@@ -27,9 +27,6 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository: `git clone https://github.com/KaShiekzmi/PawFinds-Pet-Adoption-System-Front-end-with-React-Js.git`
 2. Install dependencies: `npm install`
-
-## Compatibility
-Please note that this project is designed specifically for laptop screens and is not responsive for other devices. The development of this project was carried out during my internship, which has now come to an end.
 
 ## Contributing
 We welcome contributions to improve PawFinds! To contribute, follow these steps:
